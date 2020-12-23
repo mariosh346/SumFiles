@@ -1,0 +1,13 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ./sumFiles.js ./examples/a.txt",
+    "test": "node ./sumFiles.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
